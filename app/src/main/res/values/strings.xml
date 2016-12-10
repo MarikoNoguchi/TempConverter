@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temp Converter</string>
+    <string name="tvDegrees">Degrees</string>
+    <string name="tvFahrenheit">Fahrenheit</string>
+    <string name="tvCelcius">Celsius</string>
+    <string name="btnReset">Reset</string>
+</resources>
